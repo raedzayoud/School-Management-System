@@ -1,7 +1,7 @@
 ## School Management System (Desktop Application)
 This project, developed in collaboration with the Higher Institute of Computer Science and Multimedia of Gabes (ISIMG), focuses on creating a School Management System. The system is designed to streamline administrative tasks within educational institutions by providing functionalities such as managing student and teacher records.
 
-###Features:
+### Features:
 Graphical User Interface (GUI): Implemented using Java Swing, ensuring a user-friendly experience.
 Database Integration: Utilizes MySQL database accessed through JDBC for efficient data management.
 CRUD Operations: Supports adding, deleting, and modifying student and teacher records.
