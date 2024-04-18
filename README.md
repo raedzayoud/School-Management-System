@@ -26,3 +26,5 @@ Run the application and start managing student and teacher records efficiently.
 ![Capture d’écran 2023-04-03 131228](https://github.com/raedzayoud/School-Management-System/assets/124729087/fc958c36-9538-463d-a5ad-76feea749cc1)
 ![Capture d’écran 2023-04-19 151919](https://github.com/raedzayoud/School-Management-System/assets/124729087/faa35067-de38-47f8-83b1-3d32bcc20fa7)
 ![Capture d’écran 2023-04-20 003334](https://github.com/raedzayoud/School-Management-System/assets/124729087/c1b93667-ce15-4b7b-8a2d-cd87e712dd0a)
+![Capture d’écran 2023-05-06 195748](https://github.com/raedzayoud/School-Management-System/assets/124729087/90304778-d29b-4dd0-91e6-392026ce3380)
+
